@@ -1,0 +1,14 @@
+display_name,stub,dropdown_parent
+Home,/
+Browse,/browse.html
+Subjects,/subjects.html
+Locations,/locations.html
+Map,/map.html
+Timeline,/timeline.html
+Data,/data.html
+Essays,
+Introduction,/introduction.html,Essays
+Methods,/methods.html,Essays
+Analysis,/analysis.html,Essays
+Future Directions,/future-directions.html,Essays
+Authors,/about.html,Essays
